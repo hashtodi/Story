@@ -1,7 +1,0 @@
-When the going gets tough, the tough gets going.
-<<<<<<< HEAD
-=======
-hh
-b1
-b1
->>>>>>> b1
